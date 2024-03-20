@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Test.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Test.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Test">
+      <UniqueIdentifier>{D9386F37-2A31-3E18-96BF-A16556AD2C07}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Test\Test.Build.cs">
+      <Filter>Source\Test</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Test\Test.cpp">
+      <Filter>Source\Test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test\Test.h">
+      <Filter>Source\Test</Filter>
+    </ClInclude>
+    <Filter Include="Source\Test\Private">
+      <UniqueIdentifier>{DD4C0551-5437-3A2D-8F2F-EBA8F14ED56A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Test\Private\Core">
+      <UniqueIdentifier>{CCE4697B-E25E-3A00-A221-8E729B5C34B8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Test\Private\Core\TestAnimInstance.cpp">
+      <Filter>Source\Test\Private\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Test\Private\Core\TestCharacter.cpp">
+      <Filter>Source\Test\Private\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Test\Private\Core\TestGameMode.cpp">
+      <Filter>Source\Test\Private\Core</Filter>
+    </ClCompile>
+    <Filter Include="Source\Test\Public">
+      <UniqueIdentifier>{0193F072-BAEA-34CB-BD0E-51F2E3FC13DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Test\Public\Core">
+      <UniqueIdentifier>{9E630D80-445D-3D82-9781-1289F45F7298}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Test\Public\Core\TestAnimInstance.h">
+      <Filter>Source\Test\Public\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Test\Public\Core\TestCharacter.h">
+      <Filter>Source\Test\Public\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Test\Public\Core\TestGameMode.h">
+      <Filter>Source\Test\Public\Core</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Test\Public\TestPlayerController.h">
+      <Filter>Source\Test\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Test\Private\TestPlayerController.cpp">
+      <Filter>Source\Test\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
