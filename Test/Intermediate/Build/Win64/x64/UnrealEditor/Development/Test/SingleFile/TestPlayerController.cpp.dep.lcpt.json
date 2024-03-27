@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\filca\\documents\\unreal projects\\test\\source\\test\\private\\core\\testplayercontroller.cpp",
+        "Source": "c:\\users\\filca\\documents\\repo\\test_ue\\test\\source\\test\\private\\core\\testplayercontroller.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\definitions.test.h",
-            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\x64\\testeditor\\development\\engine\\shareddefinitions.engine.cpp20.h",
-            "c:\\users\\filca\\documents\\unreal projects\\test\\source\\test\\public\\core\\testplayercontroller.h",
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\definitions.test.h",
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\intermediate\\build\\win64\\x64\\testeditor\\development\\engine\\shareddefinitions.engine.cpp20.h",
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\source\\test\\public\\core\\testplayercontroller.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\coreminimal.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\coretypes.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
@@ -626,7 +626,7 @@
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\features\\imodularfeature.h",
             "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\worldpartitionstreamingsource.generated.h",
             "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playercontroller.generated.h",
-            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\uht\\testplayercontroller.generated.h"
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\uht\\testplayercontroller.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

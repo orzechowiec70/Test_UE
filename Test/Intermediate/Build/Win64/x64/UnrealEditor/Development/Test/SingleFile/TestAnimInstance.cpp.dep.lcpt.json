@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\filca\\documents\\unreal projects\\test\\source\\test\\private\\core\\testaniminstance.cpp",
+        "Source": "c:\\users\\filca\\documents\\repo\\test_ue\\test\\source\\test\\private\\core\\testaniminstance.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\definitions.test.h",
-            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\x64\\testeditor\\development\\engine\\shareddefinitions.engine.cpp20.h",
-            "c:\\users\\filca\\documents\\unreal projects\\test\\source\\test\\public\\core\\testaniminstance.h",
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\definitions.test.h",
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\intermediate\\build\\win64\\x64\\testeditor\\development\\engine\\shareddefinitions.engine.cpp20.h",
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\source\\test\\public\\core\\testaniminstance.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\coreminimal.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\coretypes.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
@@ -562,7 +562,7 @@
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\animation\\animnotifies\\animnotify.h",
             "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animnotify.generated.h",
             "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animinstance.generated.h",
-            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\uht\\testaniminstance.generated.h"
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\uht\\testaniminstance.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

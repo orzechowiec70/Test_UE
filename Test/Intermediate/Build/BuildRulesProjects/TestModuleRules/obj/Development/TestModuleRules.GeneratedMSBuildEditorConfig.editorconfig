@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestModuleRules
-build_property.ProjectDir = C:\Users\filca\Documents\Unreal Projects\Test\Intermediate\Build\BuildRulesProjects\TestModuleRules\
+build_property.ProjectDir = C:\Users\filca\Documents\Repo\Test_UE\Test\Intermediate\Build\BuildRulesProjects\TestModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

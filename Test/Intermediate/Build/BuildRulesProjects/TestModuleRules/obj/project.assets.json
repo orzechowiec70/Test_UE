@@ -8047,11 +8047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filca\\Documents\\Unreal Projects\\Test\\Intermediate\\Build\\BuildRulesProjects\\TestModuleRules\\TestModuleRules.csproj",
+      "projectUniqueName": "C:\\Users\\filca\\Documents\\Repo\\Test_UE\\Test\\Intermediate\\Build\\BuildRulesProjects\\TestModuleRules\\TestModuleRules.csproj",
       "projectName": "TestModuleRules",
-      "projectPath": "C:\\Users\\filca\\Documents\\Unreal Projects\\Test\\Intermediate\\Build\\BuildRulesProjects\\TestModuleRules\\TestModuleRules.csproj",
+      "projectPath": "C:\\Users\\filca\\Documents\\Repo\\Test_UE\\Test\\Intermediate\\Build\\BuildRulesProjects\\TestModuleRules\\TestModuleRules.csproj",
       "packagesPath": "C:\\Users\\filca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filca\\Documents\\Unreal Projects\\Test\\Intermediate\\Build\\BuildRulesProjects\\TestModuleRules\\obj\\",
+      "outputPath": "C:\\Users\\filca\\Documents\\Repo\\Test_UE\\Test\\Intermediate\\Build\\BuildRulesProjects\\TestModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\filca\\AppData\\Roaming\\NuGet\\NuGet.Config",

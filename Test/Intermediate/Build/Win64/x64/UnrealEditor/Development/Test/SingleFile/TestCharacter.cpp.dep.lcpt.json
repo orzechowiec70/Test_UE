@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\filca\\documents\\unreal projects\\test\\source\\test\\private\\core\\testcharacter.cpp",
+        "Source": "c:\\users\\filca\\documents\\repo\\test_ue\\test\\source\\test\\private\\core\\testcharacter.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\definitions.test.h",
-            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\x64\\testeditor\\development\\engine\\shareddefinitions.engine.cpp20.h",
-            "c:\\users\\filca\\documents\\unreal projects\\test\\source\\test\\public\\core\\testcharacter.h",
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\definitions.test.h",
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\intermediate\\build\\win64\\x64\\testeditor\\development\\engine\\shareddefinitions.engine.cpp20.h",
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\source\\test\\public\\core\\testcharacter.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\coreminimal.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\coretypes.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
@@ -609,7 +609,24 @@
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\features\\imodularfeature.h",
             "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
             "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
-            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\uht\\testcharacter.generated.h"
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\uht\\testcharacter.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\springarmcomponent.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\blendableinterface.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\blendableinterface.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\scene.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\sceneutils.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\rhi\\public\\rhifeaturelevel.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\rhi\\public\\rhidefinitions.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\rhi\\public\\gpuprofilertrace.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\profilingdebugging\\csvprofilerconfig.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\sceneutils.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\scene.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\camera\\cameratypes.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\enginedefines.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameratypes.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

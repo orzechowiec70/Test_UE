@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\singlefile\\testgamemode.h",
+        "Source": "c:\\users\\filca\\documents\\repo\\test_ue\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\singlefile\\testgamemode.h",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\definitions.test.h",
-            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\x64\\testeditor\\development\\engine\\shareddefinitions.engine.cpp20.h",
-            "c:\\users\\filca\\documents\\unreal projects\\test\\source\\test\\public\\core\\testgamemode.h",
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\definitions.test.h",
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\intermediate\\build\\win64\\x64\\testeditor\\development\\engine\\shareddefinitions.engine.cpp20.h",
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\source\\test\\public\\core\\testgamemode.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\coreminimal.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\coretypes.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
@@ -634,7 +634,7 @@
             "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\worldpartitionstreamingsource.generated.h",
             "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playercontroller.generated.h",
             "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\uht\\testgamemode.generated.h"
+            "c:\\users\\filca\\documents\\repo\\test_ue\\test\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\uht\\testgamemode.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
