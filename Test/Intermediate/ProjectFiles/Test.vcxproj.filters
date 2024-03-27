@@ -54,6 +54,9 @@
     <ClCompile Include="..\..\Source\Test\Private\Core\TestGameMode.cpp">
       <Filter>Source\Test\Private\Core</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Test\Private\Core\TestPlayerController.cpp">
+      <Filter>Source\Test\Private\Core</Filter>
+    </ClCompile>
     <Filter Include="Source\Test\Public">
       <UniqueIdentifier>{0193F072-BAEA-34CB-BD0E-51F2E3FC13DE}</UniqueIdentifier>
     </Filter>
@@ -69,15 +72,8 @@
     <ClInclude Include="..\..\Source\Test\Public\Core\TestGameMode.h">
       <Filter>Source\Test\Public\Core</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\Test\Public\TestPlayerController.h">
-      <Filter>Source\Test\Public</Filter>
+    <ClInclude Include="..\..\Source\Test\Public\Core\TestPlayerController.h">
+      <Filter>Source\Test\Public\Core</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\Test\Private\TestPlayerController.cpp">
-      <Filter>Source\Test\Private</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

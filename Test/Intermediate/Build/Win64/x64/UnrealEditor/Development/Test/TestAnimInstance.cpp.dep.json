@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\filca\\documents\\unreal projects\\test\\source\\test\\private\\core\\testaniminstance.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\x64\\testeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\definitions.test.h",
+            "c:\\users\\filca\\documents\\unreal projects\\test\\source\\test\\public\\core\\testaniminstance.h",
+            "c:\\users\\filca\\documents\\unreal projects\\test\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\uht\\testaniminstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

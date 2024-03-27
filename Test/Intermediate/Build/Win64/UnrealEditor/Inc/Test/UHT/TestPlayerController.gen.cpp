@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "Test/Public/TestPlayerController.h"
+#include "Test/Public/Core/TestPlayerController.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeTestPlayerController() {}
 // Cross Module References
@@ -42,8 +42,8 @@ void EmptyLinkFunctionForGeneratedCodeTestPlayerController() {}
 		{ "Comment", "/**\n * \n */" },
 #endif
 		{ "HideCategories", "Collision Rendering Transformation" },
-		{ "IncludePath", "TestPlayerController.h" },
-		{ "ModuleRelativePath", "Public/TestPlayerController.h" },
+		{ "IncludePath", "Core/TestPlayerController.h" },
+		{ "ModuleRelativePath", "Public/Core/TestPlayerController.h" },
 	};
 #endif
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ATestPlayerController_Statics::StaticCppClassTypeInfo = {
@@ -79,15 +79,15 @@ void EmptyLinkFunctionForGeneratedCodeTestPlayerController() {}
 	ATestPlayerController::ATestPlayerController(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer) {}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ATestPlayerController);
 	ATestPlayerController::~ATestPlayerController() {}
-	struct Z_CompiledInDeferFile_FID_Test_Source_Test_Public_TestPlayerController_h_Statics
+	struct Z_CompiledInDeferFile_FID_Test_Source_Test_Public_Core_TestPlayerController_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Test_Source_Test_Public_TestPlayerController_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_ATestPlayerController, ATestPlayerController::StaticClass, TEXT("ATestPlayerController"), &Z_Registration_Info_UClass_ATestPlayerController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATestPlayerController), 2192650758U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Test_Source_Test_Public_Core_TestPlayerController_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_ATestPlayerController, ATestPlayerController::StaticClass, TEXT("ATestPlayerController"), &Z_Registration_Info_UClass_ATestPlayerController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATestPlayerController), 3759749035U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Test_Source_Test_Public_TestPlayerController_h_1744604335(TEXT("/Script/Test"),
-		Z_CompiledInDeferFile_FID_Test_Source_Test_Public_TestPlayerController_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Test_Source_Test_Public_TestPlayerController_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Test_Source_Test_Public_Core_TestPlayerController_h_3872467825(TEXT("/Script/Test"),
+		Z_CompiledInDeferFile_FID_Test_Source_Test_Public_Core_TestPlayerController_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Test_Source_Test_Public_Core_TestPlayerController_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

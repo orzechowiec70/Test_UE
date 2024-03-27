@@ -4,7 +4,7 @@
 	DO NOT modify this manually! Edit the corresponding .h files instead!
 ===========================================================================*/
 
-// IWYU pragma: private, include "TestPlayerController.h"
+// IWYU pragma: private, include "Core/TestPlayerController.h"
 #include "UObject/ObjectMacros.h"
 #include "UObject/ScriptMacros.h"
 
@@ -14,12 +14,12 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TEST_TestPlayerController_generated_h
 
-#define FID_Test_Source_Test_Public_TestPlayerController_h_15_SPARSE_DATA
-#define FID_Test_Source_Test_Public_TestPlayerController_h_15_SPARSE_DATA_PROPERTY_ACCESSORS
-#define FID_Test_Source_Test_Public_TestPlayerController_h_15_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
-#define FID_Test_Source_Test_Public_TestPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_Test_Source_Test_Public_TestPlayerController_h_15_ACCESSORS
-#define FID_Test_Source_Test_Public_TestPlayerController_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_SPARSE_DATA
+#define FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_ACCESSORS
+#define FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesATestPlayerController(); \
 	friend struct Z_Construct_UClass_ATestPlayerController_Statics; \
@@ -28,7 +28,7 @@ public: \
 	DECLARE_SERIALIZER(ATestPlayerController)
 
 
-#define FID_Test_Source_Test_Public_TestPlayerController_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ATestPlayerController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
@@ -42,17 +42,17 @@ public: \
 	NO_API virtual ~ATestPlayerController();
 
 
-#define FID_Test_Source_Test_Public_TestPlayerController_h_12_PROLOG
-#define FID_Test_Source_Test_Public_TestPlayerController_h_15_GENERATED_BODY \
+#define FID_Test_Source_Test_Public_Core_TestPlayerController_h_12_PROLOG
+#define FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Test_Source_Test_Public_TestPlayerController_h_15_SPARSE_DATA \
-	FID_Test_Source_Test_Public_TestPlayerController_h_15_SPARSE_DATA_PROPERTY_ACCESSORS \
-	FID_Test_Source_Test_Public_TestPlayerController_h_15_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
-	FID_Test_Source_Test_Public_TestPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Test_Source_Test_Public_TestPlayerController_h_15_ACCESSORS \
-	FID_Test_Source_Test_Public_TestPlayerController_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Test_Source_Test_Public_TestPlayerController_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_SPARSE_DATA \
+	FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_ACCESSORS \
+	FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Test_Source_Test_Public_Core_TestPlayerController_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -60,7 +60,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> TEST_API UClass* StaticClass<class ATestPlayerController>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Test_Source_Test_Public_TestPlayerController_h
+#define CURRENT_FILE_ID FID_Test_Source_Test_Public_Core_TestPlayerController_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
