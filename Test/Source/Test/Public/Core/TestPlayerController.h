@@ -6,6 +6,9 @@
 #include "GameFramework/PlayerController.h"
 #include "TestPlayerController.generated.h"
 
+
+class ATestCharacter;
+
 /**
  * 
  */

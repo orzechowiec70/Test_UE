@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "Core/TestAnimInstance.h"
+#include "Test/Public/Core/TestAnimInstance.h"
 #include "../../Source/Runtime/Engine/Classes/Components/SkeletalMeshComponent.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeTestAnimInstance() {}
