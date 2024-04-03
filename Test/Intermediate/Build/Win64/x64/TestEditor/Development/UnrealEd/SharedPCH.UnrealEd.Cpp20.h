@@ -1,3 +1,0 @@
-// PCH for Editor/UnrealEd/Public/UnrealEdSharedPCH.h
-#include "C:/Users/filca/Documents/Repo/Test_UE/Test/Intermediate/Build/Win64/x64/TestEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h"
-#include "Editor/UnrealEd/Public/UnrealEdSharedPCH.h"
