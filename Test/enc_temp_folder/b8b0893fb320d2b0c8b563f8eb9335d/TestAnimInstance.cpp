@@ -14,10 +14,5 @@ void UTestAnimInstance::NativeUpdateAnimation(float DeltaSeconds)
 	{
 		Velocity = Pawn->GetVelocity();
 		Speed = Velocity.Length();
-
-		if (Speed > 0)
-		{
-			bIsMoving = true;
-		}
 	}
 }

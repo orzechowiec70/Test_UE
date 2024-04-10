@@ -22,9 +22,6 @@ public:
 	float Speed = 0.0f;
 	
 	UPROPERTY(BlueprintReadOnly)
-	bool bIsMoving = false;
-	
-	UPROPERTY(BlueprintReadOnly)
 	TObjectPtr<const APawn> Pawn;
 
 	virtual void NativeBeginPlay() override;
