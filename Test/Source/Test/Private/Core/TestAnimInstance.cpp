@@ -19,5 +19,9 @@ void UTestAnimInstance::NativeUpdateAnimation(float DeltaSeconds)
 		{
 			bIsMoving = true;
 		}
+		else
+		{
+			bIsMoving = false;
+		}
 	}
 }
