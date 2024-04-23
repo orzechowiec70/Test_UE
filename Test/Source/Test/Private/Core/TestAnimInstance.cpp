@@ -7,7 +7,6 @@
 void UTestAnimInstance::NativeBeginPlay()
 {
 	Pawn = TryGetPawnOwner();
-	Rotation = Pawn->GetActorRotation();
 	Forward = Pawn->GetActorForwardVector();
 	Right = Pawn->GetActorRightVector();
 }
@@ -25,7 +24,7 @@ void UTestAnimInstance::NativeUpdateAnimation(float DeltaSeconds)
 		const float Dot = Velocity.GetSafeNormal().Dot(Forward);
 		//const float Dotv2 = Right.GetSafeNormal().Dot(Forward);
 		bIsMovingForward = Dot > SMALL_NUMBER;
-
+		Rotation = Pawn->GetActorRotation();
 		Orientation = CalculateDirection(Velocity, Rotation);
 
 		//Orientation = ((acos(Dotv2 / (Forward.Length() * Rotation.Length())))*180)/mathPi;
