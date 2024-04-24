@@ -22,9 +22,6 @@ class TEST_API UTestAnimInstance : public UAnimInstance
 	FRotator Rotation;
 
 	UPROPERTY(BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
-	FVector Right;
-
-	UPROPERTY(BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
 	FVector Forward;
 
 	UPROPERTY(BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
@@ -38,6 +35,9 @@ class TEST_API UTestAnimInstance : public UAnimInstance
 
 	UPROPERTY(BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
 	bool bIsMovingForward = true;
+
+	UPROPERTY(BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
+	bool bIsJumping = true;
 
 	UPROPERTY(BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
 	float mathPi = PI;
